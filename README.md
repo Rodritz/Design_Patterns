@@ -9,7 +9,8 @@ de sus clases.
 BUILDER es un patrón de diseño creacional que nos permite construir objetos complejos paso a paso. El patrón nos 
 permite producir distintos tipos y representaciones de un objeto empleando el mismo código de construcción. 
 
-
+ABSTRACT FACTORY es un patrón de diseño creacional que nos permite producir familias de objetos relacionados sin
+especificar sus clases concretas
 
 
 https://www.youtube.com/playlist?list=PLr23_YfwEbPT6T8RaDDUli-n1TrN51hz1

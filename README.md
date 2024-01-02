@@ -14,3 +14,5 @@ especificar sus clases concretas
 
 
 https://www.youtube.com/playlist?list=PLr23_YfwEbPT6T8RaDDUli-n1TrN51hz1
+
+https://refactoring.guru/es/design-patterns
